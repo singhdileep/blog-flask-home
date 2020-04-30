@@ -9,12 +9,12 @@
         "blog_name": "Accenture Blog",
         "tag_line": "A Blog liked by Operators",
         "gmail-user": "singhdileep321@gmail.com",
-        "gmail-password": "dileep90055",
+        "gmail-password": "",
         "about_text": "Hi my name is Dileep I am working in Accenture I have 2+ year experience in Automation  ",
         "no_of_posts": 3,
         "login_image": "login.svg",
         "admin_user": "dileep",
-        "admin_password": "dileep90",
+        "admin_password": "",
         "upload_location": "E:\\Python\\Flask\\static"
 
 
